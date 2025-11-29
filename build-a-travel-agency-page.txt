@@ -5,6 +5,7 @@
   <head>
     <meta charset="utf-8">
     <title>Travel Agency Page</title>
+<!-- The NAME thing is used to name the meta tag. the CONTENT thing is used by web browsers and maybe social medias to see the relevancy of the content -->
     <meta name="description" content="This website is for those who want to travel">
   </head>
   <body>
@@ -12,12 +13,13 @@
     <p>make this summer magical with these three amazing locations! Check out Rome, the Swiss Alps, or the beachside city of Ibisa!</p>
     <h2>Packages</h2>
     <p>These two packages are amazing! Travel in a group, or with your closest friends and family</p>
+<!-- remember, you define the type of list first and then write out LI -->
     <ul>
       <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
       <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
     </ul>
     <h2>Top Itineraries</h2>
-
+<!-- images can go inbetween the anchor beginning and end tags. -->
     <figure>
       <a href="https://www.freecodecamp.org/learn" target="_blank"> <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg>" alt="Colosseo"> </a>
       <figcaption> This will be an amazing vacation in Rome! Go see Peter's Bassilica, the Coloseum, and so much more! </figcaption>
@@ -33,6 +35,7 @@
       <figcaption>Take your time by relaxing in the wonderful mediteranian with delicious food from Ibisa</figcaption>
     </figure>
   </body>
+
 
 
 </html>
