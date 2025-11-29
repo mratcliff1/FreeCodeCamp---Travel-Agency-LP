@@ -1,0 +1,41 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Travel Agency Page</title>
+    <meta name="description" content="This website is for those who want to travel">
+  </head>
+  <body>
+    <h1>Come check out these destinations for you summer vacation!</h1>
+    <p>make this summer magical with these three amazing locations! Check out Rome, the Swiss Alps, or the beachside city of Ibisa!</p>
+    <h2>Packages</h2>
+    <p>These two packages are amazing! Travel in a group, or with your closest friends and family</p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+    <h2>Top Itineraries</h2>
+
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"> <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg>" alt="Colosseo"> </a>
+      <figcaption> This will be an amazing vacation in Rome! Go see Peter's Bassilica, the Coloseum, and so much more! </figcaption>
+    </figure>
+
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"> <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Alps"></a>
+      <figcaption>This amazing and serene mountain hike will make you thankful for God's creation!</figcaption>
+    </figure>
+
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"> <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Beach"> </a>
+      <figcaption>Take your time by relaxing in the wonderful mediteranian with delicious food from Ibisa</figcaption>
+    </figure>
+  </body>
+
+
+</html>
+
+** end of index.html **
+
